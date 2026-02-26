@@ -1,4 +1,14 @@
 # GrAfIcAcIoN-pRoYeCtO_iNtEgRaDoR
+
+![Blender](https://img.shields.io/badge/Blender-%23225E8B.svg?style=for-the-badge&logo=blender&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white) ![Cycles](https://img.shields.io/badge/Render-Cycles-orange?style=for-the-badge)
+
+> [!CAUTION]
+>   Requisitos **Blender🎥 5.0** o anterioes.
+
+>[!NOTE]
+> 📥 DOWNLOAD
+>
+>   [![Blender](https://img.shields.io/badge/Blender-%23225E8B.svg?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org/download/)
 Este repositorio contiene el proyecto correspondiente a la **Unidad 1** de la asignatura de Graficación. Se desarrolla un escenario 3D generado proceduralmente en Blender mediante scripting en Python, que consiste en un camino de bloques con una curva sinusoidal y una cámara que recorre dicho camino de principio a fin con animación por keyframes.
 
 El objetivo es demostrar el uso de:
