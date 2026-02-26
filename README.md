@@ -9,6 +9,9 @@
 > 📥 DOWNLOAD
 >
 >   [![Blender](https://img.shields.io/badge/Blender-%23225E8B.svg?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org/download/)
+>
+>
+
 Este repositorio contiene el proyecto correspondiente a la **Unidad 1** de la asignatura de Graficación. Se desarrolla un escenario 3D generado proceduralmente en Blender mediante scripting en Python, que consiste en un camino de bloques con una curva sinusoidal y una cámara que recorre dicho camino de principio a fin con animación por keyframes.
 
 El objetivo es demostrar el uso de:
