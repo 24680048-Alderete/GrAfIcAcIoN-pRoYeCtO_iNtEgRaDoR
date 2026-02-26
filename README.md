@@ -182,3 +182,8 @@ bpy.context.active_object.data.energy = 5000
 bpy.context.scene.frame_set(1)
 ```
 - Coloca el cabezal de tiempo en el primer frame, listo para visualizar la animación desde el inicio.
+### Muestra De Resultados
+La figura se estaria viendo asi:
+<img width="674" height="414" alt="image" src="https://github.com/user-attachments/assets/64fe1254-2640-4001-9307-7a77cb48f18c" />
+En cuanto a la camara se veria asi:
+<img width="865" height="463" alt="image" src="https://github.com/user-attachments/assets/2b57aa5a-a6d4-40a6-952c-9e3c35256724" />
